@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "284323656188",
+    "project_id": "quickwash-laundry-84125",
+    "storage_bucket": "quickwash-laundry-84125.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284323656188:android:4d8af7bf36e70c1d978279",
+        "android_client_info": {
+          "package_name": "com.example.quickwashlaundry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvJsXleURIA4rpD-ZR4BfhOowxxvWuHmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
